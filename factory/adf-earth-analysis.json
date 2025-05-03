@@ -1,0 +1,9 @@
+{
+	"name": "adf-earth-analysis",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dc2bc756-cfbe-41fc-99e6-44b3e78c1f20",
+		"tenantId": "02eb0185-cfc5-496a-968d-3021a26c6fe7"
+	}
+}
