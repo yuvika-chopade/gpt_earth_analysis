@@ -1,0 +1,18 @@
+{
+	"name": "earthjsonData",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureEarthData",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileSystem": "earth-data"
+			}
+		},
+		"schema": {}
+	}
+}
