@@ -16,7 +16,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"method": "GET",
-					"url": "http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson"
+					"url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson"
 				}
 			}
 		],
