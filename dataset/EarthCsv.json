@@ -10,8 +10,8 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"fileName": "EarthData",
-				"fileSystem": "input-sample-dataset"
+				"fileName": "earth_data",
+				"fileSystem": "earth-data"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
