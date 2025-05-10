@@ -1,0 +1,13 @@
+{
+	"name": "rest_earth_data",
+	"properties": {
+		"description": "connection between API and adf",
+		"annotations": [],
+		"type": "RestService",
+		"typeProperties": {
+			"url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
