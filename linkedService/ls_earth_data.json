@@ -1,0 +1,10 @@
+{
+	"name": "ls_earth_data",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://stgaccearth.dfs.core.windows.net/"
+		}
+	}
+}
